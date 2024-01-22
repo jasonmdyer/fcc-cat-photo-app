@@ -1,1 +1,1 @@
-# FreeCodeCamp Respsonsive Web Design Course Lesson 1
+# FreeCodeCamp Responsive Web Design Course Lesson 1
